@@ -1,7 +1,7 @@
 # [AllanDaniel]
 <img src="https://media.tenor.com/A2s1-dF5TsQAAAAM/gon-on-fire.gif" width="180px">
 
-Eu sou <strong>Allan Daniel </strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Allan Daniel </strong>, <strong>Tenho 15 anos e estou começando nessa área da tecnologia</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong> Java Script </strong> 
 - 💬 Pergunte-me sobre: <strong>Jogo bem handboll,jogo competitivamente Valorant e Fortnite</strong>
