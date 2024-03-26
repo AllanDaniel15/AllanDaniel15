@@ -21,7 +21,7 @@ Eu sou <strong>Allan Daniel </strong>, <strong>Faça uma breve apresentação aq
 </div>
 **Contador De Visitas**
 
-![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{AllanDaniel15}/count.svg)
 
 </br>
 <div align="center">
